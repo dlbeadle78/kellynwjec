@@ -4,6 +4,7 @@ Only Kellyn's confirmed options are included.
 
 ## Year 13
 
+- [Year 2 Study Guide](study-guide-year-2.md)
 - [Unit 3 Option 8 - The American Century, c.1890-1990](unit-3-option-8/README.md)
 - [Unit 4 Option 3 - Protest and Campaigns for Social Reform, c.1832-1848](unit-4-option-3/README.md)
 - [Unit 5 - Historical Interpretations NEA](unit-5-nea/README.md)
