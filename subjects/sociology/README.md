@@ -2,6 +2,7 @@
 
 ## Year 13
 
+- [Year 2 Study Guide](study-guide-year-2.md)
 - [Unit 3 - Power and Control](unit-3-power-and-control.md)
 - [Unit 4 - Social Inequality and Applied Methods of Sociological Enquiry](unit-4-social-inequality.md)
 
