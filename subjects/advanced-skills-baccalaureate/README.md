@@ -5,6 +5,7 @@ This is the current qualification first taught from September 2023. It replaced 
 ## Current priority
 
 - [Individual Project](individual-project/README.md) - 50% of the qualification
+- [Study Guide](study-guide.md) - full qualification guide with detailed Individual Project support
 
 ## Other projects
 
