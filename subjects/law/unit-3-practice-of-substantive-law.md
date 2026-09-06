@@ -4,7 +4,7 @@
 
 A2 Unit 3 and a current Year 13 priority. The specification includes Human Rights Law, Law of Contract and Criminal Law.
 
-**Kellyn's school-selected combination:** Option to confirm.
+**Kellyn's confirmed school-selected combination:** Criminal Law and Human Rights Law.
 
 ## Official WJEC documents
 
@@ -32,4 +32,7 @@ What it is useful for: Finding common strengths and mistakes in Unit 3 responses
 
 ## Kellyn's resources
 
-Reserved for school materials, NotebookLM resources and Kellyn's own revision resources.
+- [Year 2 Study Guide](study-guide-year-2.md)
+- [Real-World Examples and Case Context Bank](real-world-examples-year-2.md)
+
+Use these alongside school materials, NotebookLM resources and Kellyn's own revision resources. For Unit 3, use the examples bank to practise identifying legal issues and applying the correct rule to facts rather than memorising news stories as legal authorities.
