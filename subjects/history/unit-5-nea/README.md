@@ -8,6 +8,18 @@ A non-examination assessment of 3,000 to 4,000 words under the current specifica
 
 This page explains the official requirements. It must not be used to produce assessed work for Kellyn.
 
+## Research-method examples
+
+[Open the Year 2 Examples, Primary Evidence and Quotations Bank](../real-world-examples-year-2.md#part-c---unit-5-historical-interpretations-nea)
+
+The examples bank shows how to:
+
+- distinguish a primary source from a historian's interpretation;
+- record provenance, relevance and limitations;
+- compare historians' arguments rather than collecting disconnected quotations;
+- keep a source and interpretation log;
+- preserve the boundary between research support and Kellyn's own assessed writing.
+
 ## Start here
 
 ### Specification
