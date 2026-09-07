@@ -4,7 +4,10 @@
 
 A2 Unit 4 and a current Year 13 priority.
 
-**Optional topic studied:** Option to confirm.
+Unit 4 contains two compulsory areas:
+
+- **Applied Methods of Sociological Enquiry** - designing, justifying and evaluating sociological research.
+- **Social Inequality** - evidence and explanations of inequality linked to class, gender, ethnicity and age.
 
 ## Official WJEC documents
 
@@ -32,4 +35,7 @@ What it is useful for: Finding common strengths and mistakes in Unit 4 responses
 
 ## Kellyn's resources
 
-Reserved for school materials, NotebookLM resources and Kellyn's own revision resources.
+- [Year 2 Study Guide](study-guide-year-2.md)
+- [Real-World Examples, Evidence and Quotes Bank](real-world-examples-year-2.md)
+
+Use the methods examples to practise applying validity, reliability, representativeness, sampling, ethics and practical issues to a specific design. Use the inequality examples as cited evidence of patterns, then apply sociological theories to explain and evaluate them.
