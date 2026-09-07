@@ -4,7 +4,9 @@
 
 A2 Unit 3 and a current Year 13 priority.
 
-**Optional topic studied:** Option to confirm.
+**Kellyn's confirmed option:** Crime and Deviance.
+
+The Crime and Deviance option covers definitions and measurement of crime and deviance, patterns by social group, sociological theories and explanations, contemporary social policies and the relationship between theory and policy.
 
 ## Official WJEC documents
 
@@ -32,4 +34,7 @@ What it is useful for: Finding common strengths and mistakes in Unit 3 responses
 
 ## Kellyn's resources
 
-Reserved for school materials, NotebookLM resources and Kellyn's own revision resources.
+- [Year 2 Study Guide](study-guide-year-2.md)
+- [Real-World Examples, Evidence and Quotes Bank](real-world-examples-year-2.md)
+
+Use the examples bank to attach specific evidence to named sociological ideas. Do not use a current statistic or news story as though it proves a theory by itself.
