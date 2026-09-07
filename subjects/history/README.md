@@ -5,6 +5,7 @@ Only Kellyn's confirmed options are included.
 ## Year 13
 
 - [Year 2 Study Guide](study-guide-year-2.md)
+- [Examples, Primary Evidence and Quotations Bank](real-world-examples-year-2.md)
 - [Unit 3 Option 8 - The American Century, c.1890-1990](unit-3-option-8/README.md)
 - [Unit 4 Option 3 - Protest and Campaigns for Social Reform, c.1832-1848](unit-4-option-3/README.md)
 - [Unit 5 - Historical Interpretations NEA](unit-5-nea/README.md)
@@ -22,3 +23,5 @@ Only Kellyn's confirmed options are included.
 - [Digital revision resources](revision-resources.md)
 
 Qualification codes: A Level 1100QS; AS Level 2100QS.
+
+The examples bank is designed to help Kellyn connect knowledge to specific evidence. It distinguishes events, primary evidence, short quotations and what each example can or cannot prove.
