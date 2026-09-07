@@ -6,6 +6,22 @@
 
 A2 Unit 4 and a current Year 13 priority.
 
+This is a **depth study** containing both source evaluation and essay work. Kellyn should connect primary-source content to precise historical context and judge value for the exact enquiry rather than simply calling a source biased or reliable.
+
+## Kellyn's evidence bank
+
+[Open the Year 2 Examples, Primary Evidence and Quotations Bank](../real-world-examples-year-2.md)
+
+The Unit 4 sections include:
+
+- Whig and social reform
+- Factory, Poor Law, Mines and Public Health legislation
+- Chartism and its three petitions
+- Newport Rising and Welsh Chartism
+- Rebecca Riots
+- Anti-Corn Law League and repeal
+- source-evaluation examples using archival and parliamentary records
+
 ## Official WJEC documents
 
 ### Specification
