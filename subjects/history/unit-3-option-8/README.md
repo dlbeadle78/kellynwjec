@@ -4,6 +4,20 @@
 
 A2 Unit 3 and a current Year 13 priority.
 
+This is a **breadth study**. Kellyn needs to compare change, continuity, turning points and significance across the full period rather than concentrating on one famous event or decade.
+
+## Kellyn's evidence bank
+
+[Open the Year 2 Examples, Primary Evidence and Quotations Bank](../real-world-examples-year-2.md)
+
+The Unit 3 sections include:
+
+- US government and federalism
+- the struggle for Civil Rights, c.1890-1990
+- the Making of a Superpower, c.1890-1990
+- turning-point and breadth-judgement examples
+- short primary quotations with guidance on what they do and do not prove
+
 ## Official WJEC documents
 
 ### Specification
